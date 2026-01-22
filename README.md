@@ -1,4 +1,10 @@
-## Migration Notice\n\nThis repository is archived as the hackathon MVP. The project has moved to:\n- https://github.com/swipe-pad/swipe-pad\n- https://github.com/swipe-pad/swipe-pad-contracts\n\n# SwipePad Smart Contracts
+## Migration Notice
+
+This repository is archived as the hackathon MVP. The project has moved to:
+- https://github.com/swipe-pad/swipe-pad
+- https://github.com/swipe-pad/swipe-pad-contracts
+
+# SwipePad Smart Contracts
 
 <div align="center">
   <h3>Making Micro-Donations Secure & Transparent on Celo</h3>
